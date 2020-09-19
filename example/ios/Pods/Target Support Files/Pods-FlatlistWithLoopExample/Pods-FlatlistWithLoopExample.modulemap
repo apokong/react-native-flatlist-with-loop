@@ -1,0 +1,6 @@
+module Pods_FlatlistWithLoopExample {
+  umbrella header "Pods-FlatlistWithLoopExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
